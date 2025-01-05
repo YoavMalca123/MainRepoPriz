@@ -1,0 +1,12 @@
+[submodule "yoavproject"]
+	path = yoavproject
+	url = https://github.com/YoavMalca123/yoavproject.git
+[submodule "kafkaFeeder"]
+	path = kafkaFeeder
+	url = https://github.com/YoavMalca123/kafkaFeeder.git
+[submodule "kafka-redis-feeder"]
+	path = kafka-redis-feeder
+	url = https://github.com/YoavMalca123/kafka-redis-feeder.git
+[submodule "graphql-redis-server"]
+	path = graphql-redis-server
+	url = https://github.com/YoavMalca123/graphql-redis-server.git
